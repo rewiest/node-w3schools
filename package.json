@@ -1,0 +1,16 @@
+{
+  "name": "w3schools-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "nodemailer": "^4.6.4",
+    "upper-case": "^1.1.3"
+  }
+}
